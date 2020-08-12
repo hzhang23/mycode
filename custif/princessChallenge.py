@@ -6,7 +6,7 @@ questionBank = [
 
 "2. The animal that will lead your royal parade is : \n A:fish        B: dragon         C: raccoon",
 
-"3. The most important quality you look for in a price is: \n A:charm        B: Kindness     C: humor",
+"3. The most important quality you look for in a prince is: \n A:charm        B: Kindness     C: humor",
 
 "4. which one of these outfit elements are you most likely to wear? \n A: Vest       B: Dress        C:Sweats",
 

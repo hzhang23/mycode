@@ -33,8 +33,7 @@ def askQuestion(question, s):
         print("\n!!!!!\nPlease choose from A or B. if you don't want to play anymore, please enter QUIT to exit.\n\n")    
         askQuestion(question, s)
 
-startGame = input("****************************************************\n would you like to know which Princess you are? please enter YES to play or any key to exit \n****************************************************\n")
-if startGame.upper() != "YES":
+startGame = input("****************************************************\n would you like to know which Princess you are? please enter YES to play or any key to exit \n****************************************************\n")if startGame.upper() != "YES":
     print("sorry to hear that. please run princessChallenge.py whenever you would like to play")  
 else: 
     print("\n\n\nPlease Be Honest to following question and choose your Answer of either A or B. if you would like to quit the game at anytime, please enter QUIT to exit\n\n\n")

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 ## create questionBank object and get data from question.txt 
 qBank = open("qustion.txt", "r")
 qList = qBank.read().splitlines()
